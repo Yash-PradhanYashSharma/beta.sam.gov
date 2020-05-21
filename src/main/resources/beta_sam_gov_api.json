@@ -1,0 +1,1016 @@
+{
+  "_embedded": {
+    "results": [
+      {
+        "isCanceled": false,
+        "_rScore": 100,
+        "_type": "opportunity",
+        "publishDate": "2019-06-18T08:34:33-04:00",
+        "isActive": true,
+        "title": "Electronic Security System (ESS) Enterprise Software Solution",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2019-06-18T08:34:33-04:00",
+            "content": "DLA Information Operations (J6) has a requirement for Electronic Security System (ESS) Enterprise Software Solution. See the attached Request for Information (RFI) and DRAFT Performance Work Statement (PWS) for a full breakdown of the requirement."
+          },
+          {
+            "lastModifiedDate": "2019-06-18T08:34:33-04:00",
+            "content": "DLA Information Operations (J6) has a requirement for Electronic Security System (ESS) Enterprise Software Solution. See the attached Request for Information (RFI) and DRAFT Performance Work Statement (PWS) for a full breakdown of the requirement. Pr"
+          }
+        ],
+        "solicitationNumber": "SP4701-19-Q-CG01",
+        "responseDate": "2019-06-25T18:00:00-04:00",
+        "parentNoticeId": "9078ed934ee3afa5bf4ee6527f6345c1",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2019-06-18T08:34:33-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "d842e79e5bd166e99f1b6b720ab70e60",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA Acquisition Locations",
+            "type": "AGENCY",
+            "status": null
+          },
+          {
+            "organizationId": "6ed0d0a277a08199e0c236140e0270fc",
+            "address": {
+              "zip": "19111-5096",
+              "country": "US",
+              "city": "Philadelphia",
+              "streetAddress": "700 Robbins Avenue",
+              "streetAddress2": null,
+              "state": "PA"
+            },
+            "level": 4,
+            "name": "DLA Contracting Services Office - Philadelphia",
+            "type": "OFFICE",
+            "status": null
+          }
+        ],
+        "_id": "bbe69fd57c056705901f0864d4b3df04",
+        "modifications": {
+          "count": 4
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 97,
+        "_type": "opportunity",
+        "publishDate": "2015-10-15T11:55:45-04:00",
+        "isActive": true,
+        "title": "Tracker Lite Requirements Analysis and Maintenance Support",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2015-10-15T11:55:45-04:00",
+            "content": "THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY AND DOES NOT CONSTITUTE A COMMITMENT, IMPLIED OR OTHERWISE, THAT THE DEFENSE LOGISTICS AGENCY (DLA) DISTRIBUTION WILL TAKE PROCUREMENT ACTION IN THIS MATTER. FURTHER, DLA DISTRIBUTION WILL NOT BE RESPONSIBLE"
+          }
+        ],
+        "solicitationNumber": "SP3300-16-SS-7000",
+        "responseDate": "2015-10-26T13:00:00-04:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2015-10-15T11:55:45-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPARTMENT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100100201",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA DISTRIBUTION",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500045599",
+            "address": {
+              "zip": "17070-5008",
+              "country": "USA",
+              "city": "NEW CUMBERLAND",
+              "streetAddress": "ACQUISITION OPERATIONS (J7)",
+              "streetAddress2": "430 MIFFLIN AVENUE SUITE 3102A",
+              "state": "PA"
+            },
+            "level": 4,
+            "name": "DLA DISTRIBUTION",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "318247672a78558c37539fc0f067e8cc",
+        "modifications": {
+          "count": 0
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 96,
+        "_type": "opportunity",
+        "publishDate": "2017-10-11T17:40:43-04:00",
+        "isActive": true,
+        "title": "Technical Consulting Services for Electricity and Renewables Acquisitions",
+        "type": {
+          "code": "p",
+          "value": "Presolicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2017-10-11T17:40:44-04:00",
+            "content": "Solicitation number is changed from SP060017R0429 to SP060418R0402, which will be issued today via FEDBIZOPPS under separate notification (SEE SP060418R0402)"
+          },
+          {
+            "lastModifiedDate": "2017-10-11T17:40:43-04:00",
+            "content": "&nbsp;<span style=\"FONT-FAMILY: \">This is a <strong><span style=\"FONT-FAMILY: \">Synopsis</span></strong> for commercial items prepared in accordance with the format in FAR Subpart 5.2, as supplemented with additional information.<span style=\"mso-spac"
+          }
+        ],
+        "solicitationNumber": "SP060017R0429",
+        "responseDate": "2017-11-13T12:00:00-05:00",
+        "parentNoticeId": "5647620dc8528b030da922d6834637c2",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2017-10-11T17:40:43-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "d842e79e5bd166e99f1b6b720ab70e60",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA Acquisition Locations",
+            "type": "AGENCY",
+            "status": null
+          },
+          {
+            "organizationId": "85cd60f749b8b92642db7ef32c698477",
+            "address": {
+              "zip": "22060-6222",
+              "country": "US",
+              "city": "Fort Belvoir",
+              "streetAddress": "8725 John J. Kingman Road",
+              "streetAddress2": null,
+              "state": "VA"
+            },
+            "level": 4,
+            "name": "DLA Energy",
+            "type": "OFFICE",
+            "status": null
+          }
+        ],
+        "_id": "1da75d709172a4b96edfe80e945160f6",
+        "modifications": {
+          "count": 1
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 96,
+        "_type": "opportunity",
+        "publishDate": "2016-12-09T14:11:24-05:00",
+        "isActive": true,
+        "title": "DAI Help Desk Support Tier 2/Tier 3",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2016-12-09T14:11:24-05:00",
+            "content": "DLA has a requirement to procure support for Help Desk Tier 2 and 3 services.&nbsp; This is a synopsis and the Request for Proposal will follow soon.&nbsp; Please see attachment for further details."
+          },
+          {
+            "lastModifiedDate": "2016-12-09T14:11:24-05:00",
+            "content": "Amendment 02 is hereby addded.&nbsp; This amendment extends the closing date, makes changes to the solicitiaton, answers contractor questions, and includes an attachment to the solicitation.&nbsp; See Amendment 02 for more details."
+          },
+          {
+            "lastModifiedDate": "2016-12-09T14:11:24-05:00",
+            "content": "Amendment 01 is hereby issued.&nbsp; Please see attachment for details."
+          },
+          {
+            "lastModifiedDate": "2016-12-09T14:11:24-05:00",
+            "content": "The RFP is hereby issued.&nbsp; Please see attachment for more details."
+          }
+        ],
+        "solicitationNumber": "SP4701-17-R-0006",
+        "responseDate": "2016-12-20T15:00:00-05:00",
+        "parentNoticeId": "e2936a83d5ed024d2e8eb7f5f4051912",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2016-12-09T14:11:24-05:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "d842e79e5bd166e99f1b6b720ab70e60",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA Acquisition Locations",
+            "type": "AGENCY",
+            "status": null
+          },
+          {
+            "organizationId": "6ed0d0a277a08199e0c236140e0270fc",
+            "address": {
+              "zip": "19111-5096",
+              "country": "US",
+              "city": "Philadelphia",
+              "streetAddress": "700 Robbins Avenue",
+              "streetAddress2": null,
+              "state": "PA"
+            },
+            "level": 4,
+            "name": "DLA Contracting Services Office - Philadelphia",
+            "type": "OFFICE",
+            "status": null
+          }
+        ],
+        "_id": "9b1073b700f24b6c0c52b825e70ba495",
+        "modifications": {
+          "count": 3
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 95,
+        "_type": "opportunity",
+        "publishDate": "2018-10-26T10:21:34-04:00",
+        "isActive": true,
+        "title": "Spill Prevention and Response Exercise Instruction",
+        "type": {
+          "code": "p",
+          "value": "Presolicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2018-10-26T10:21:34-04:00",
+            "content": "Synopsis for SPE60318R5X03 Spill Prevention &amp; Response Exercise (SPRE)\r\n<p>The Defense Logistics Agency (DLA)- Energy anticipates issuing a Request for Proposal (RFP) within the next 30 days. The solicitation will be published electronically on t"
+          },
+          {
+            "lastModifiedDate": "2018-10-26T10:21:34-04:00",
+            "content": "&nbsp;\r\n<p><span style=\"mso-bidi-font-family: \"><strong>A Final Solicitation and attachments for SPE603-18-R-5X03 is issued under Solictitation number SPE603-19-R-0506. </strong></span></p>"
+          }
+        ],
+        "solicitationNumber": "SPE603-18-R-5X03",
+        "responseDate": null,
+        "parentNoticeId": "14cb3f8ad405fec8bb5f9a59b869dfe2",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2018-10-26T10:21:34-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "d842e79e5bd166e99f1b6b720ab70e60",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA Acquisition Locations",
+            "type": "AGENCY",
+            "status": null
+          },
+          {
+            "organizationId": "85cd60f749b8b92642db7ef32c698477",
+            "address": {
+              "zip": "22060-6222",
+              "country": "US",
+              "city": "Fort Belvoir",
+              "streetAddress": "8725 John J. Kingman Road",
+              "streetAddress2": null,
+              "state": "VA"
+            },
+            "level": 4,
+            "name": "DLA Energy",
+            "type": "OFFICE",
+            "status": null
+          }
+        ],
+        "_id": "37fe9d49325fc96829bc864812e2293b",
+        "modifications": {
+          "count": 1
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 92,
+        "_type": "opportunity",
+        "publishDate": "2019-01-23T15:16:21-05:00",
+        "isActive": true,
+        "title": "Environmental Documents Services",
+        "type": {
+          "code": "p",
+          "value": "Presolicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2019-01-23T15:16:21-05:00",
+            "content": "<span style=\"font-size: 12.0pt; font-family: &quot;Times New Roman&quot;,serif;\">Synopsis/Pre-Solicitation Notice for SPE603-18-R-5X19 Environmental Documents Services<br /><br />The Defense Logistics Agency (DLA)- Energy anticipates issuing a Reques"
+          },
+          {
+            "lastModifiedDate": "2019-01-23T15:16:21-05:00",
+            "content": "<strong>A Final Solicitation and attachments for SPE603-18-R-5X19 is issued under Solicitation number SPE603-19-R-0504.</strong>"
+          }
+        ],
+        "solicitationNumber": "SPE603-18-R-5X19",
+        "responseDate": null,
+        "parentNoticeId": "4be18cb5b432392f39dc6e5e9d1afa78",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2019-01-23T15:16:21-05:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "d842e79e5bd166e99f1b6b720ab70e60",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA Acquisition Locations",
+            "type": "AGENCY",
+            "status": null
+          },
+          {
+            "organizationId": "85cd60f749b8b92642db7ef32c698477",
+            "address": {
+              "zip": "22060-6222",
+              "country": "US",
+              "city": "Fort Belvoir",
+              "streetAddress": "8725 John J. Kingman Road",
+              "streetAddress2": null,
+              "state": "VA"
+            },
+            "level": 4,
+            "name": "DLA Energy",
+            "type": "OFFICE",
+            "status": null
+          }
+        ],
+        "_id": "7de1fd3db2cfee81ad16e51563d4c64f",
+        "modifications": {
+          "count": 1
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 85,
+        "_type": "opportunity",
+        "publishDate": "2020-05-18T16:12:33-04:00",
+        "isActive": true,
+        "title": "PROFESSIONAL SUPPORT SERVICES FOR DLA DISTRIBUTION HEADQUARTERS",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2020-05-18T16:12:33.147-04:00",
+            "content": "<p>Amendment 0007&nbsp;- Government response&nbsp;to Industry submitted question. The following attachments are&nbsp;included as part of this amendment: Revised RFP #SP3300-20-R-0001 (5/18/2020 Revision) and&nbsp;RFP SP330020R0001 (5/18/2020 Revision"
+          }
+        ],
+        "solicitationNumber": "SP3300-20-R-0001",
+        "responseDate": "2020-05-26T13:00:00-04:00",
+        "parentNoticeId": "23c3f396d20545d090f943ffe54bb877",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2020-05-18T16:12:33-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100100201",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA DISTRIBUTION",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500045599",
+            "address": {
+              "zip": "17070-5008",
+              "country": "USA",
+              "city": "NEW CUMBERLAND",
+              "streetAddress": "ACQUISITION OPERATIONS (J7)",
+              "streetAddress2": "430 MIFFLIN AVENUE SUITE 3102A",
+              "state": "PA"
+            },
+            "level": 4,
+            "name": "DLA DISTRIBUTION",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "e26c6ab1ce4d400ebe2046d45b67a5b1",
+        "modifications": {
+          "count": 7
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 76,
+        "_type": "opportunity",
+        "publishDate": "2018-01-18T09:49:43-05:00",
+        "isActive": true,
+        "title": "Spill Prevention and Response Exercise",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2018-01-18T09:49:43-05:00",
+            "content": "&nbsp;\r\n<p style=\"TEXT-ALIGN: left\" align=\"left\"><span style=\"TEXT-DECORATION: none; FONT-WEIGHT: normal; text-underline: none\">Synopsis Description: <span style=\"mso-spacerun: yes\">&nbsp;</span>Spill Prevention and Response Exercise Combined Sources"
+          }
+        ],
+        "solicitationNumber": "SP0600-13-D-5310",
+        "responseDate": "2017-10-30T16:00:00-04:00",
+        "parentNoticeId": "019398a2ffa296b878602d4c6af5106a",
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2018-01-18T09:49:43-05:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "d842e79e5bd166e99f1b6b720ab70e60",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DLA Acquisition Locations",
+            "type": "AGENCY",
+            "status": null
+          },
+          {
+            "organizationId": "85cd60f749b8b92642db7ef32c698477",
+            "address": {
+              "zip": "22060-6222",
+              "country": "US",
+              "city": "Fort Belvoir",
+              "streetAddress": "8725 John J. Kingman Road",
+              "streetAddress2": null,
+              "state": "VA"
+            },
+            "level": 4,
+            "name": "DLA Energy",
+            "type": "OFFICE",
+            "status": null
+          }
+        ],
+        "_id": "9b91deb151d4fc1cdd7ba04d2ed90fb5",
+        "modifications": {
+          "count": 1
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 72,
+        "_type": "opportunity",
+        "publishDate": "2020-05-08T09:31:32-04:00",
+        "isActive": true,
+        "title": "ActivePerl Enterprise Edition Limited v5.26 software maintenance",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2020-05-08T09:31:32.712-04:00",
+            "content": "<p>Please see the attached solicitation SP7000-20-Q-0029 for details.</p>\n"
+          }
+        ],
+        "solicitationNumber": "SP7000-20-Q-0029",
+        "responseDate": "2020-05-15T11:00:00-04:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2020-05-08T09:31:32-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100044249",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DCSO",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100500350",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "DCSO HARRISBURG",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100500351",
+            "address": {
+              "zip": "17070-5059",
+              "country": "USA",
+              "city": "NEW CUMBERLAND",
+              "streetAddress": "5404 J AVE BLDG 404",
+              "streetAddress2": null,
+              "state": "PA"
+            },
+            "level": 5,
+            "name": "DCSO-P NEW CUMBERLAND",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "2f0a18026491463097760a000041c1bd",
+        "modifications": {
+          "count": 0
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 64,
+        "_type": "opportunity",
+        "publishDate": "2020-04-29T09:28:43-04:00",
+        "isActive": true,
+        "title": "Website Redesign",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2020-04-29T09:28:43.881-04:00",
+            "content": "<p>This notice is a request for information (RFI). The purpose of this RFI is to conduct market research to increase small business participation and determine supplier capabilities to make a determination of commercial service availability to meet t"
+          }
+        ],
+        "solicitationNumber": "SP4705-20-SourceSought-0001",
+        "responseDate": "2020-05-31T16:30:00-04:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "name": null,
+            "duns": null
+          }
+        },
+        "modifiedDate": "2020-04-29T09:28:43-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000415",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEFENSE LOGISTICS AGENCY (DLA)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100044249",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "DCSO",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100082422",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "DCSO FORT BELVIOR",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500035097",
+            "address": {
+              "zip": "22060",
+              "country": "USA",
+              "city": "FORT BELVOIR",
+              "streetAddress": "HQ CONTRACTING DIV, RM 1145",
+              "streetAddress2": "8725 JOHN J. KINGMAN ROAD",
+              "state": "VA"
+            },
+            "level": 5,
+            "name": "DCSO FORT BELVOIR",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "53eb37078a9447ef92307b657147488d",
+        "modifications": {
+          "count": 0
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "https://52samdotgovsearch.prod.apps-internal.prod-iae.bsp.gsa.gov/sgs/v1/search?index=opp&index=opp&q=dla&q=dla&page=0&page=0&size=10&sort=-relevance&sort=-relevance&raw=false&mode=search&mode=search&is_active=true&naics=51,54,55&notice_type=r,p,o&set_aside=SBA,SDVOSBC"
+    }
+  },
+  "page": {
+    "size": 10,
+    "totalElements": 10,
+    "totalPages": 1,
+    "number": 0,
+    "maxAllowedRecords": 10000
+  }
+}
