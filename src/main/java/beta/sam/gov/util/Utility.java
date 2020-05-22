@@ -4,6 +4,7 @@ import beta.sam.gov.entites.Prospect;
 import beta.sam.gov.entites.QueryParams;
 import beta.sam.gov.entites.ResultsWrapper;
 import com.opencsv.bean.CsvToBeanBuilder;
+import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.*;
@@ -47,16 +48,16 @@ public class Utility {
 	}
 
 	public void generateSpreadSheet(ResultsWrapper results, QueryParams queryParams) {
-		String[] columns = { "isCanceled", "_rScore", "_type", "publishDate", "isActive", "title", "type",
-				"descriptions", "solicitationNumber", "responseDate", "parentNoticeId", "award", "modifiedDate",
-				"organizationHierarchy", "_id", "modifications" };
+		String[] columns = { "Canceled", "R Score", "Type", "Publish Date", "Active", "Title", "Type",
+				"Descriptions", "Solicitation Number", "Response Date", "Parent Notice Id", "Award", "Modified Date",
+				"Organization Hierarchy", "Id", "Modifications", "Link", "Notes" };
 
 		HSSFWorkbook workbook = new HSSFWorkbook();
 		HSSFSheet sheet = workbook.createSheet("data");
 		Font headerFont = workbook.createFont();
-		headerFont.setBoldweight((short) 2);
-		headerFont.setFontHeightInPoints((short) 14);
-		headerFont.setColor(IndexedColors.SKY_BLUE.getIndex());
+		headerFont.setBoldweight((short) 1);
+		headerFont.setFontHeightInPoints((short) 12);
+		headerFont.setColor(IndexedColors.BLACK.getIndex());
 		CellStyle headerCellStyle = workbook.createCellStyle();
 		headerCellStyle.setFont(headerFont);
 		Row headerRow = sheet.createRow(0);
@@ -66,7 +67,10 @@ public class Utility {
 			cell.setCellStyle(headerCellStyle);
 		}
 
-		int rowNum = 1;
+		HSSFRow metaDescriptionRow = sheet.createRow(1);
+		metaDescriptionRow.createCell(0).setCellValue(queryParams.toString());
+		metaDescriptionRow.createCell(1).setCellValue(String.format("%1$tY-%1$tm-%1$td-%1$tk-%1$tS-%1$tp", new Date()));
+		int rowNum = 2;
 		for (Prospect prospect : Objects.requireNonNull(results).getEmbedded().getResults()) {
 			Row row = sheet.createRow(rowNum++);
 			int colNum = 0;
@@ -86,13 +90,15 @@ public class Utility {
 			row.createCell(colNum++).setCellValue(prospect.getModifications().getCount());
 			row.createCell(colNum++).setCellValue(prospect.getId());
 			row.createCell(colNum++).setCellValue(prospect.getOrganizationHierarchy().size());
+			row.createCell(colNum++).setCellValue("https://beta.sam.gov/opp/"+prospect.getId()+"/view");
 		}
+
 		for (int i = 0; i < columns.length; i++) {
 			sheet.autoSizeColumn(i);
 		}
 
-		try (FileOutputStream fileOut = new FileOutputStream(new File(filepath + queryParams.toString()
-				+ String.format("-%1$tY-%1$tm-%1$td-%1$tk-%1$tS-%1$tp", new Date()) + "-.xls"))) {
+		try (FileOutputStream fileOut = new FileOutputStream(new File(filepath + "SAM-"
+				+ String.format("%1$tY-%1$tm-%1$td-%1$tk-%1$tS-%1$tp", new Date()) + "-.xls"))) {
 			workbook.write(fileOut);
 		} catch (IOException e) {
 			e.printStackTrace();
